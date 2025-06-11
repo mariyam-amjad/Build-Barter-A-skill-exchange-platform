@@ -1,9 +1,9 @@
-![Skill Swap222](https://github.com/Wellitsabhi/Skillswap/assets/63799853/9e597edd-7a40-4a03-b7d8-0cdeaf1b792f)
 
-[Skill Swap↗️](https://skillswap-seven.vercel.app/) is an innovative platform where users can register, list their skills and interests, and find others on the platform to teach and learn from each other. It's a community-driven skill exchange network designed to foster collaborative learning and personal growth.
+
+Build & Barter is an innovative platform where users can register, list their skills and interests, and find others on the platform to teach and learn from each other. It's a community-driven skill exchange network designed to foster collaborative learning and personal growth.
 
 ## Table of Contents
-- [Skill Swap](#skill-swap)
+- [Build & Barter](#build&barter)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Usage](#usage)
@@ -57,11 +57,11 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Wellitsabhi/Skillswap
+   git clone git@github.com:mariyam-amjad/Build-Barter-A-skill-exchange-platform.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Skillswap
+   cd build&barter
    ```
 3. Install dependencies:
    ```bash
@@ -105,11 +105,6 @@ We welcome contributions! Please follow these steps to contribute:
 - **Video Tutorials**: Integrate video tutorials for popular skills.
 - **Gamification**: Introduce badges and rewards to motivate users.
 - **Advanced Matchmaking**: Implement AI-based matchmaking to find the best skill exchange partners.
-
-## Contributors
-- **Himanshu Lilhore** - [GitHub](https://github.com/Himanshu-Lilhore) | [Twitter](https://x.com/HimanshuLilhore)
-- **Abhishek Singh** - [GitHub](https://github.com/Wellitsabhi) | [Twitter](https://x.com/wellitsabhi)
-- **Khushi** - [GitHub](https://github.com/KodaKodama) | [Twitter](https://x.com/DevQueen146223)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
