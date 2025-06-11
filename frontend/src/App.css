@@ -1,0 +1,20 @@
+.bg-light-mode {
+    background-image: url('./assets/backgrounds/mesh-light.png');
+    z-index: 1;
+}
+
+.bg-dark-mode {
+    background-image: url('./assets/backgrounds/mesh-dark.png');
+    z-index: 1;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    mix-blend-mode: screen;
+    z-index: 2;
+}
